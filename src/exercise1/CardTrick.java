@@ -87,7 +87,8 @@ public class CardTrick {
         System.out.println("-- Games");
         System.out.println("-- Fishing");
 
-        System.out.println();
+        System.out.println("Those are informations about me");
+		System.out.println("Thank you for playing");
         
     
     }
